@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">food</string>
+    <string name="intro_title">Lets Find <font color='#8385F9'> The best meals for Your </font> lovely pet</string>
+    <string name="intro_login">Already have an account? <font color='#f3c024'> Sign in</font></string>
+</resources>
